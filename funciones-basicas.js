@@ -43,7 +43,5 @@ pid.innerHTML = "";
 /* #3 insertar en un elemento existente */
 pid.appendChild(img);
 
-/* 02:24 13/29*/
-
 
 
